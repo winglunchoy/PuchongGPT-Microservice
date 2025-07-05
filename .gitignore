@@ -1,0 +1,19 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+antenv/
+.env/
+
+# Logs and cache
+*.log
+*.tmp
+
+# VSCode settings (optional)
+.vscode/
+.env
